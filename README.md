@@ -27,24 +27,8 @@ I have gained practical experience with a range of programming languages, techno
 
 Here are some of the projects I've worked on, which reflect my passion for applying theoretical knowledge to build practical solutions:
 
-### Web-UserRegistrationForm (TajilPlus)
-This project is a simple user registration form built using HTML, CSS, and PHP.
-* **Features:**
-    * HTML form to collect user data (name, email, phone, gender, password).
-    * Data validation implemented using PHP.
-    * Responsive design that adapts to different screen sizes.
-    * Redirects to a success page upon successful form submission.
-    * User information is displayed on a dashboard page after registration.
-* **How to Run:**
-    * Clone or download the repository.
-    * Set up a local server (e.g., XAMPP, WAMP) to run PHP.
-    * Open the form in a browser and submit data.
-* **Technologies Used:**
-    * HTML
-    * CSS
-    * PHP
-* **Project Link:** [https://github.com/isaacmahyoub/web-tajilplus]
-  
+###
+
 ## 🌱 What I'm Currently Focusing On
 
 I am committed to applying this knowledge to build practical projects and enhance my problem-solving skills for complex challenges. Currently, I am focusing on delving deeper into web development, particularly in building robust backend systems and efficient database applications. I am always looking for opportunities to learn, grow, and connect with the developer community.
